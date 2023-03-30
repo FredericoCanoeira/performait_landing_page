@@ -31,33 +31,33 @@ a:hover{
 
 /* third-section */
 
-/* .third-section{
+.third-section{
     background-color: #E36B32;
     padding: 60px;
-} */
+}
 
 .path{
     /* background-color: blueviolet; */
-    /* display: flex;
+    display: flex;
     gap: 5rem;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap; */
+    flex-wrap: wrap;
 }
 
-/* .path-box{
+.path-box{
     height:150px;
     width: 150px;
-} */
+}
 
-/* .third-section h2{
+.third-section h2{
     display: flex;
     justify-content: center;
     justify-items: center;
     margin-bottom: 90px;
     font-size: 54px;
     color: #EDF0F1;
-} */
+}
 
 /* fourth-section */
 .fourth-section{
