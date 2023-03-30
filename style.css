@@ -29,6 +29,105 @@ a:hover{
     color: rgb(255, 168, 0);
 }
 
+/* third-section */
+
+/* .third-section{
+    background-color: #E36B32;
+    padding: 60px;
+} */
+
+.path{
+    /* background-color: blueviolet; */
+    /* display: flex;
+    gap: 5rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; */
+}
+
+/* .path-box{
+    height:150px;
+    width: 150px;
+} */
+
+/* .third-section h2{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-bottom: 90px;
+    font-size: 54px;
+    color: #EDF0F1;
+} */
+
+/* fourth-section */
+.fourth-section{
+    /* background-color: blue; */
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.blue{
+    /* background-color: bisque; */
+    /* width: 470px; */
+    width: 470px;
+}
+
+.fourth-section h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.fourth-section h3{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.fourth-section h4{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.fourth-section button{
+    font-size: 21px;
+    font-weight: 600;
+    /* height: 70px;
+    width: 70px; */
+    padding: 15px 55px 15px 55px;
+}
+
+.fourth-content{
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+img.fourth-img {
+    height: 350px;
+    width: 475px;
+}
+
+/* .pawer-bar{
+    /* background-color: aqua;
+    width: 100%;
+    margin-bottom: 0;
+} */
+
+
+
+.section-1{
+    background-color: rgb(54, 54, 55);
+    background-image: url(./image/Group-2446rodape-web-1024x63.png.webp);
+    background-size: cover;
+    height: 120px;
+    width: 100%;
+}
+
+
+
 /* pre-footer-section */
 .pre-footer-section{
     background-color: #EDF0F1;
@@ -40,6 +139,7 @@ a:hover{
     font-size: 15px;
     gap: 1rem; 
     flex-wrap: wrap;
+
 }
 
 
